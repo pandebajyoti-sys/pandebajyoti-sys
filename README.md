@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m a B.tech undergrad <br>🌱 I’m currently learning HTML,CSS,JS<br><br>
+🎓 B.Tech CSE (AI/ML) undergrad
+💻 Interested in Python, C++
+🎯 Currently learning Web Development
+🤖 Passionate about AI & Machine Learning
+🧠 Improving problem-solving & DSA skills
+🚀 Interested in building real-world projects
+📚 Always learning and exploring new technologies<br><br>
 
 
 ## 🌐 Socials:
